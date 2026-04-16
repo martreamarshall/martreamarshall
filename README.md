@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Martrea 👋
 
-<!--
-**martreamarshall/martreamarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support Technician → GRC Analyst in progress**
 
-Here are some ideas to get you started:
+🔐 CompTIA Security+ certified  
+📍 Maryland  
+🎯 Focused on Governance, Risk & Compliance | DoD/Federal roles  
+📚 Currently pursuing: ServiceNow CSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you'll find here
+- NIST CSF 2.0 assessments
+- Policy libraries & risk registers
+- SOC 2 readiness work
+- Third-party risk management programs
+
+### Connect
+- LinkedIn: https://www.linkedin.com/in/martrea-marshall-8b43878a
+- Email: martreamarshall@gmail.com
+
